@@ -37,3 +37,4 @@ ENV/
 expenses.json
 *.csv
 *.zip
+*.json
